@@ -1,7 +1,7 @@
 # CHIMELUM IVY ALEX-MOZIE
 
 ### Medical Doctor | Data Analyst
- <a id="about"></a>
+ <a name="about"></a>
 
 **What if data could tell a story that numbers alone couldn't?**
 
@@ -34,8 +34,9 @@ What sets me apart is the perspective I bring beyond the numbers. With a backgro
 
 ---
 ## Resume
+Explore my professional background, academic qualifications, technical skills, project experience and leadership contributions.
 
-[View My Resume](ADD_RESUME_LINK_HERE)
+[View / Download My Resume](ADD_RESUME_LINK_HERE)
 
 ---
 ## 📊 PROJECTS
