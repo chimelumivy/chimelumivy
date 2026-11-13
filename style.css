@@ -1,0 +1,136 @@
+
+/* GENERAL STYLING */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background-color: #F8F3E9;
+    color: #302820;
+    line-height: 1.8;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    padding: 80px 20px 50px;
+}
+
+header h1 {
+    font-size: 48px;
+    letter-spacing: 2px;
+    color: #302820;
+}
+
+header p {
+    color: #72533D;
+    font-family: Arial, sans-serif;
+    letter-spacing: 3px;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+/* NAVIGATION */
+nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 20px;
+    border-top: 1px solid #E9DFCE;
+    border-bottom: 1px solid #E9DFCE;
+    font-family: Arial, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    color: #72533D;
+    font-size: 13px;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #B89A69;
+}
+
+/* MAIN CONTENT */
+main {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 25px;
+}
+
+section {
+    padding: 65px 0;
+    border-bottom: 1px solid #E9DFCE;
+}
+
+section h2 {
+    font-size: 32px;
+    color: #72533D;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+/* LINKS AND BUTTONS */
+section a {
+    display: inline-block;
+    background-color: #72533D;
+    color: #FFFFFF;
+    padding: 12px 24px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+
+section a:hover {
+    background-color: #302820;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 30px 15px;
+    color: #72533D;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+/* MOBILE RESPONSIVENESS */
+@media (max-width: 600px) {
+    header {
+        padding: 55px 15px 35px;
+    }
+
+    header h1 {
+        font-size: 34px;
+    }
+
+    nav {
+        gap: 15px;
+    }
+
+    main {
+        padding: 20px;
+    }
+
+    section {
+        padding: 45px 0;
+    }
+
+    section h2 {
+        font-size: 26px;
+    }
+}
