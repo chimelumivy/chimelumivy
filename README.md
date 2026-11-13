@@ -47,7 +47,7 @@ A collection of practical projects demonstrating my ability to analyse data, unc
 
 *Practical data analysis and reporting using Microsoft Excel.*
 
-#### 1. Sales Performance Analysis
+#### Sales Performance Analysis
 
 **Project Overview:** [Project description to be added.]
 
@@ -65,7 +65,7 @@ A collection of practical projects demonstrating my ability to analyse data, unc
 
 *Interactive dashboards and data visualisation for business intelligence and decision support.*
 
-#### 1. Logistics Analytics
+#### Logistics Analytics
 
 **Project Overview:** Analysis of logistics operations, truck efficiency, maintenance and driver performance.
 
@@ -81,7 +81,7 @@ A collection of practical projects demonstrating my ability to analyse data, unc
 
 **Project Files:** [Add repository link]
 
-#### 2. Sales Performance Dashboard
+#### Sales Performance Dashboard
 
 **Project Overview:** An interactive analysis of sales, customers, products, revenue and profitability.
 
@@ -95,7 +95,7 @@ A collection of practical projects demonstrating my ability to analyse data, unc
 
 *Data validation, cleaning, querying and analysis using SQL.*
 
-#### 1. Hospital Analytics
+#### Hospital Analytics
 
 **Project Overview:** An end-to-end healthcare analytics project using a synthetic hospital dataset to explore hospital operations, patient admissions and readmissions.
 
