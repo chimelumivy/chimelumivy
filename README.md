@@ -1,159 +1,22 @@
-# CHIMELUM IVY ALEX-MOZIE
+## Hi there! 👋
 
-### Medical Doctor | Data Analyst
- <a name="about"></a>
+**What if the most valuable insights aren't in the numbers themselves, but in the stories they reveal?**
 
-**What if data could tell a story that numbers alone couldn't?**
+My journey into data analytics began with a simple curiosity during medical school. While working on a research project exploring healthcare workers' knowledge and attitudes towards eye donation, I became fascinated by the stories hidden within the data. I wanted to understand not just what the numbers showed, but what they meant, the patterns behind them, and how those insights could inform better decisions.That curiosity grew into a passion for data analytics and the possibilities it creates.
 
-My curiosity about this began in medical school, while collecting data for a research project exploring healthcare workers' knowledge and attitudes towards eye donation.
-I found myself wondering what the numbers would reveal. What did healthcare workers really know? How did their attitudes shape their practices? And what deeper insights could the data uncover? That curiosity eventually led me to pursue formal training in data analytics during my medical internship, turning an academic interest into a professional pursuit.
+With a background in medicine and a growing foundation in data analytics, I bring a perspective that goes beyond working with numbers. My clinical training has shaped how I approach problems: asking meaningful questions, examining evidence, identifying patterns, and translating findings into practical insights.
 
-Today, I use **Excel, SQL, Power BI and basic Python** to transform raw data into meaningful insights.
+I enjoy exploring data, uncovering trends, and turning complex information into clear, meaningful stories that support smarter decisions. I'm particularly interested in healthcare analytics, but I'm equally curious about how data can drive improvements across different industries.
 
-What sets me apart is the perspective I bring beyond the numbers. With a background in medicine, business operations and volunteer leadership, I bring analytical thinking, creativity, problem-solving and project coordination skills to every challenge.I believe every dataset has a story to tell. My goal is to uncover it, make sense of the numbers and turn insights into decisions that matter.
-
-
-## 📑 TABLE OF CONTENTS
-
-1. [About](#about)
-2. [Resume](#resume)
-3. [Projects](#projects)
-   - [Excel Projects](#excel-projects)
-      - [Sales Performance Analysis](#sales-performance-analysis)
-   - [SQL Projects](#sql-projects)
-      - [Hospital Analytics](#hospital-analytics)
-   - [Power BI Projects](#power-bi-projects)
-      - [Logistics Analytics](#logistics-analytics)
-      - [Sales Performance Dashboard](#sales-performance-dashboard)
-4. [Technical Skills](#technical-skills)
-5. [Education](#education)
-6. [Certifications](#certifications)
-7. [Contact](#contact)
----
-
-
----
-## Resume
-Explore my professional background, academic qualifications, technical skills, project experience and leadership contributions.
-
-[View / Download My Resume](ADD_RESUME_LINK_HERE)
-
----
-## 📊 PROJECTS
-
-A collection of practical projects demonstrating my ability to analyse data, uncover insights and communicate findings using different analytical tools.
-
-### Excel Projects
-
-*Practical data analysis and reporting using Microsoft Excel.*
-
-#### Sales Performance Analysis
-
-**Project Overview:** [Project description to be added.]
-
-**Objectives:** [Project objectives to be added.]
-
-**Tools:** Microsoft Excel
-
-**Key Findings:** [Insights to be added.]
-
-**Project Files:** [Add repository link]
+This GitHub profile is where I document my learning, showcase projects, and explore the many ways data can make a difference.
 
 ---
 
-### Power BI Projects
+## 📄 My Resume
 
-*Interactive dashboards and data visualisation for business intelligence and decision support.*
+Explore my professional background, qualifications, experience and career journey.
 
-#### Logistics Analytics
-
-**Project Overview:** Analysis of logistics operations, truck efficiency, maintenance and driver performance.
-
-**Objectives:**
-- Evaluate logistics operational performance.
-- Assess truck efficiency and maintenance.
-- Analyse driver performance and safety.
-- Identify opportunities for operational improvement.
-
-**Tools:** Power BI, Excel, Power Query, DAX.
-
-**Key Findings:** [Add final project insights.]
-
-**Project Files:** [Add repository link]
-
-#### Sales Performance Dashboard
-
-**Project Overview:** An interactive analysis of sales, customers, products, revenue and profitability.
-
-**Tools:** Power BI, Excel, Power Query, DAX.
-
-**Key Findings:** [Add final project insights.]
-
+[**VIEW MY RESUME →**](YOUR_RESUME_LINK)
 ---
-
-### SQL Projects
-
-*Data validation, cleaning, querying and analysis using SQL.*
-
-#### Hospital Analytics
-
-**Project Overview:** An end-to-end healthcare analytics project using a synthetic hospital dataset to explore hospital operations, patient admissions and readmissions.
-
-**Objectives:**
-- Validate and clean hospital datasets.
-- Analyse patient admissions and readmission patterns.
-- Calculate healthcare operational KPIs.
-- Generate insights to support data-driven decision-making.
-
-**Tools:** Microsoft SQL Server, SQL Server Management Studio (SSMS).
-
-**Key Findings:** To be updated as the analysis progresses.
-
-**Project Files:** [View SQL Repository](ADD_PROJECT_REPOSITORY_LINK)
-
-
-## Technical Skills
-
-**Data Analysis**
-- Microsoft Excel
-- SQL (Microsoft SQL Server)
-- Python (Basic)
-
-**Data Visualization**
-- Microsoft Power BI
-
-**Other Tools**
-- Microsoft 365
-- Canva
-- Figma
-
-**Core Competencies**
-- Data Cleaning and Transformation
-- Exploratory Data Analysis
-- Dashboard Development
-- Problem-Solving
-- Analytical Thinking
-- Project Coordination
-
----
-## Education
-
-### Nnamdi Azikiwe University, Awka, Nigeria
-**Bachelor of Medicine, Bachelor of Surgery (MBBS)**
-
-2017 – 2025
-
----
-## Certifications
-
-- Data Analytics Training – TS Academy
-
----
-
-## Contact
-
-- **LinkedIn:** www.linkedin.com/in/chimelumalexmozie
-- **Email:** ivychimelum@gmail.com
-- **GitHub:** [github.com/chimelumivy](https://github.com/chimelumivy)
 
 ---
