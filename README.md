@@ -10,6 +10,4 @@ I enjoy exploring data, uncovering trends, and turning complex information into 
 
 This GitHub profile is where I document my learning, showcase projects, and explore the many ways data can make a difference.
 
-Explore my professional background, qualifications, experience and career journey.
-
-[View my resume](YOUR_RESUME_LINK)
+Explore my professional background, qualifications, experience and career journey:  [View my resume](YOUR_RESUME_LINK)
