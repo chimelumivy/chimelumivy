@@ -12,7 +12,4 @@ This GitHub profile is where I document my learning, showcase projects, and expl
 
 Explore my professional background, qualifications, experience and career journey.
 
-[view my resume](your_resume_link)
----
-
----
+[View my resume](YOUR_RESUME_LINK)
